@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.nasa{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.nasa img {
+  width: 90vw;
+}
+.nasa p{
+  display: flex;
+  text-align: center;
+}
